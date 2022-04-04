@@ -24,5 +24,5 @@ user_reply = input("Namamu Bang? \x1b[1;92m")
 
 
 
-print("\x1b[1;91mBang\x1b[1;92m", user_reply)
+inu_ganteng_banget("\x1b[1;91mBang\x1b[1;92m", user_reply)
 inu_ganteng_banget('TOOLS V3 BELUM UPDATE KONTOL GW CAPE BIKIN TOOLS TAI')
