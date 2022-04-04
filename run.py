@@ -19,7 +19,7 @@ def inu_ganteng_banget(s):
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
 user_reply = input("Namamu Bang? \n")
-inu_ganteng_banget.clear()
+inu_ganteng_banget(clear)
 
 
 
