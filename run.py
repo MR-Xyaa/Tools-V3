@@ -18,11 +18,11 @@ def inu_ganteng_banget(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
-user_reply = input("Namamu Bang? \n")
-inu_ganteng_banget(clear)
+user_reply = input("Namamu Bang? \x1b[1;92m")
 
 
 
 
 
-print("Bang", user_reply)
+print("\x1b[1;91mBang\x1b[1;92m", user_reply)
+inu_ganteng_banget('TOOLS V3 BELUM UPDATE KONTOL GW CAPE BIKIN TOOLS TAI')
